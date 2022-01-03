@@ -20,7 +20,7 @@ params:
 
     sidebar:
         emoji: ""
-        subtitle:
+        subtitle: "A Cybersecurity professional. Personal-development Enthusiast. I read, write and share."
         avatar:
             enabled: true
             local: true
