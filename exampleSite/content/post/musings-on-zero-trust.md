@@ -2,7 +2,6 @@
 author = "Shiraz Valji"
 date = ""
 description = "zero trust misunderstandings; thanks vendors, analysts and history."
-draft = true
 tags = ["ZTNA", "Cybersecurity", "Blog"]
 title = "Musings on Zero Trust"
 
