@@ -17,5 +17,3 @@ fields:
 - type: list
   name: tags
   label: tags
-pages:
-- exampleSite/content/post/test-post.md

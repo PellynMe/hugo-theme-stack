@@ -2,7 +2,6 @@
 author = "shiraz"
 date = 2022-01-27T00:00:00Z
 description = "test description"
-draft = true
 tags = ["New Tag"]
 title = "test post"
 
