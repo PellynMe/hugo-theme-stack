@@ -180,17 +180,23 @@ menu:
               icon: home
     
     social:
-        - identifier: mail
-          name: mail
-          url: mailto:hi@shirazvalji.com
-          params:
-            icon: messages
-
         - identifier: newsletter
           name: newsletter
           url: https://www.getrevue.co/profile/shiraz-valji
           params:
-            icon: newletter
+            icon: mailbox
+
+        - identifier: youtube
+          name: YouTube
+          url: https://www.youtube.com/channel/UC7IZLW00dkldiEW3ALOS5fg
+          params:
+            icon: brand-youtube
+
+        - identifier: medium
+          name: Medium
+          url: http://shirazvalji.medium.com
+          params:
+            icon: brand-medium
 
         - identifier: twitter
           name: Twitter
