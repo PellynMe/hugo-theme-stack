@@ -22,5 +22,3 @@ fields:
 - type: list
   name: tags
   label: tags
-pages:
-- exampleSite/content/post/another untitled folder/tester.md
