@@ -1,7 +1,8 @@
 +++
 author = "Shiraz Valji"
-date = ""
+date = 2022-01-13T00:00:00Z
 description = "zero trust misunderstandings; thanks vendors, analysts and history."
+image = "/uploads/florian-klauer-nptlmg6jqdo-unsplash.jpg"
 tags = ["ZTNA", "Cybersecurity", "Blog"]
 title = "Musings on Zero Trust"
 
