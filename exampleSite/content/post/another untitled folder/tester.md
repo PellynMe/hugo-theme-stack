@@ -2,7 +2,6 @@
 author = "John Carr"
 date = 2022-01-04T00:00:00Z
 description = ""
-draft = true
 image = "/uploads/4856.webp"
 tags = ["Test"]
 title = "real post inside a folder"
