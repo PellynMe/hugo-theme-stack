@@ -19,3 +19,4 @@ fields:
   label: tags
 pages:
 - content/test-page.md
+- exampleSite/content/post/This is a Test/title-goes-here.md
