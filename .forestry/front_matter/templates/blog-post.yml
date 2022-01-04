@@ -23,5 +23,6 @@ fields:
   name: tags
   label: tags
 pages:
+- exampleSite/content/post/another untitled folder/tester.md
 - exampleSite/content/post/musings-on-zero-trust.md
 - exampleSite/content/post/post-within-untitled-folder.md
